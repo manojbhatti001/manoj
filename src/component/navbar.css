@@ -4,7 +4,7 @@
 }
 .navbar{
     background: linear-gradient(90deg, rgb(123, 31, 170)36%, rgba(0, 61, 255, 1));
-    /* height: 80px; */
+     height: 80px; 
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -18,12 +18,12 @@
 
 .logo img{
     margin-top: 0;
-    height: 30px;
-    width: 50px;
+    height: 50px;
+    width: 70px;
 }
 .navbarlink{
     display: flex;
-    font-size: 6px;
+    font-size: 20px;
     align-items: center;
 }
 .navbarlink a{
@@ -35,7 +35,7 @@
 .right{
     display: flex;
     margin-right:5% ;
-    font-size: 7px;
+    font-size: 17px;
 }
 .right a:hover{
     background-color: #2112f2;
